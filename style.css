@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background: radial-gradient();
+    font-family: Anton&display;
+}
+h1{
+    color: blanchedalmond;
+    font-size: 50px;
+    font-family: Anton&family;
+}
+h2{
+    color: blanchedalmond;
+    font-size: 42px;
+    font-family: Anton&family;
+}
+h3{
+    color: blanchedalmond;
+    font-size: 35px;
+    font-family: Anton&family;
+}
